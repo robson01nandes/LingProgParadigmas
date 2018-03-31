@@ -1,0 +1,2 @@
+# LingProgParadigmas
+Exercicios
